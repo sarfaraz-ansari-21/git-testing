@@ -8,6 +8,10 @@ This example is to show how to different parts of the git repository and various
 
 ## Purpose
 
+New purpose here.
+
 ## Deployment
+
+It is ready for deployment.
 
 ## How to contribute
