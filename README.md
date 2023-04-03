@@ -1,5 +1,7 @@
-# git-testing
+# Starter web project
 
-## Heading 2
+## Introduction
 
-### Heading 3
+## Purpose
+
+## How to contribute
