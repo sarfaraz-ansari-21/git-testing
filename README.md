@@ -10,8 +10,10 @@ This example is to show how to different parts of the git repository and various
 
 New purpose here.
 
-## Deployment
+## Deployment Level 2
 
 It is ready for deployment.
 
 ## How to contribute
+
+You can contribute just by making changes here and there.
